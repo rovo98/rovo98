@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://i.imgur.com/4M7IWwP.gif)
 
 <!--**rovo98/rovo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![rovo98's github stats](https://github-readme-stats.vercel.app/api?username=rovo98)](https://github.com/rovo98)
-
-![](https://i.imgur.com/4M7IWwP.gif)
+[![rovo98's github stats](https://github-readme-stats.vercel.app/api?username=rovo98&show_icons=true&theme=onedark)](https://github.com/rovo98)
